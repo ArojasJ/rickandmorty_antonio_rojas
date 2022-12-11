@@ -1,0 +1,19 @@
+.containerNav{
+    background-color: rgb(0, 0, 0) ;
+    height: 100px;
+    border: 2px solid rgb(255, 255, 255);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+   
+}
+.links{
+ 
+    text-decoration:none;
+    padding: 20px;
+   color: aliceblue;
+   font-weight: bold;
+  
+
+}

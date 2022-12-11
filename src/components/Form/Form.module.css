@@ -1,0 +1,22 @@
+.warning {
+    border: solid red 1px;
+    border-radius: 0.2em;
+  }
+  
+.formContainer {
+    background-color: rgba(117, 255, 71, 0.395);
+    width: 300px;
+    margin: auto auto;
+    padding: 50px;
+    margin-top: 150px;
+}
+.danger {
+    font-size: 12px;
+    color: red;
+    margin-left: 2em;
+  }
+
+.textLabel {
+    margin: 8px;
+}
+
